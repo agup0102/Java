@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=EventHall
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EventHall\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=halls
+comment1.target=EventHall(java.util.List)
+comment2.params=
+comment2.target=java.util.List\ gethalls()
+comment3.params=hall
+comment3.target=void\ addhalls(Hall)
+comment4.params=halls
+comment4.target=void\ sethalls(java.util.List)
+numComments=5
